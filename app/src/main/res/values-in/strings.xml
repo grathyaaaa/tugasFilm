@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Daftar Acara TV</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="Film">film</string>
+    <string name="idunno">idunno</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">layar kosong</string>
+    <string name="trailer">cuplikan film</string>
+    <string name="Trailer">cuplikan film</string>
+    <string name="Anime">anime</string>
+    <string name="title1">favorit</string>
+    <string name="title2">ganti bahasa</string>
+    <string name="airing_today">Sedang Tayang</string>
+    <string name="tv_popular">TV Populer</string>
+    <string name="tv_top_rated">TV Urutan Teratas</string>
+
+</resources>
